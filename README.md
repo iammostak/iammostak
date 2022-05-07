@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Md Mostafijur Rahman | Aspiring Full Stack Web Developer. 
-- 👀 Love to code
+- 👀 Coding is love. 
 - 🌱 Currently learning MERN Stack at Masai School. 
 - 📫 How to reach me - iammostak@yahoo.com
 
