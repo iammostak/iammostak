@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Md Mostafijur Rahman
-- 👀 I’m interested in codeing. 
-- 🌱 I’m currently learning javascript.
+- 👋 Hi, I’m Md Mostafijur Rahman | Aspiring Full Stack Web Developer. 
+- 👀 Love to code
+- 🌱 Currently learning MERN Stack at Masai School. 
 - 📫 How to reach me - iammostak@yahoo.com
 
 <!---
