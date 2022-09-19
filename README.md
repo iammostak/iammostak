@@ -14,7 +14,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iammostak&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=iammostak&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iammostak&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=iammostak&theme=radical&hide_border=false)<br />
+[![](https://activity-graph.herokuapp.com/graph?username=iammostak&theme=react-dark)](https://github.com/iammostak/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iammostak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
