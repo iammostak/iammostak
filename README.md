@@ -6,6 +6,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iammostak) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iammostak) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff5722)](https://iammostak.github.io/)
 
 # 💻 Tech Stack:
