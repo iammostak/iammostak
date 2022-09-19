@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Mostafijur Rahman</h1>
 
-[![](https://visitcount.itsvg.in/api?id=iammostak&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <img src="https://raw.githubusercontent.com/iammostak/iammostak.github.io/main/src/assets/coder-dark.gif" width="400" align="right" />
+
+[![](https://visitcount.itsvg.in/api?id=iammostak&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iammostak) 
