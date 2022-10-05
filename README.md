@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="#" align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1400%2B+Hours+of+Coding+Experience;Data+Structure+Algorithm;4+Group+Projects;2+Individual+Projects;Several+Mini+Projects;MERN+Stack;Full+Stack+Web+Developer"></img>
+<img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1400%2B+Hours+of+Coding+Experience;Data+Structure+Algorithm;Coding+is+fun;Coding+is+love;4+Group+Projects;2+Individual+Projects;Several+Mini+Projects;MERN+Stack;Full+Stack+Web+Developer"></img>
 </a>
 </div>
 
