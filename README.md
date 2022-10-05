@@ -6,13 +6,9 @@
 </a>
 </div>
 
----
-
 <h3 align="center">Aspiring Full Stack Web Developer. <br />Student at Masai School. A quick learner who can absorb new ideas and can communicate them clearly and effectively.</h3>
 
----
-
-<img src="https://raw.githubusercontent.com/iammostak/iammostak.github.io/main/src/assets/coder-dark.gif" width="400" align="right" />
+## <img src="https://raw.githubusercontent.com/iammostak/iammostak.github.io/main/src/assets/coder-dark.gif" width="400" align="right" />
 
 [![](https://visitcount.itsvg.in/api?id=iammostak&icon=0&color=0)](https://visitcount.itsvg.in)
 
