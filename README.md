@@ -1,13 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Md Mostafijur Rahman</h1>
 
-<div align="center">
-<a href="#" align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1400%2B+Hours+of+Coding+Experience;Data+Structure+Algorithm;Coding+is+fun;Coding+is+love;4+Group+Projects;2+Individual+Projects;Several+Mini+Projects;MERN+Stack;Full+Stack+Web+Developer"></img>
-</a>
-</div>
-
-<h3 align="center">Aspiring Full Stack Web Developer. <br />Student at Masai School. A quick learner who can absorb new ideas and can communicate them clearly and effectively.</h3>
-
 ## <img src="https://raw.githubusercontent.com/iammostak/iammostak.github.io/main/src/assets/coder-dark.gif" width="400" align="right" />
 
 [![](https://visitcount.itsvg.in/api?id=iammostak&icon=0&color=0)](https://visitcount.itsvg.in)
